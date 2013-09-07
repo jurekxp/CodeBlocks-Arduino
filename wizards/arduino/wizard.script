@@ -60,7 +60,7 @@ Libs <- _T("");
 
 // directories
 ArduinoDir <- _T("$(HOME)/.codeblocks/arduino");
-SketceshDir <- _T("$(HOME)/.codeblocks/sketches");
+SketcheshDir <- _T("$(HOME)/.codeblocks/sketches");
 HelpersDir <- _T("$(HOME)/.codeblocks/helpers");
 ArdusimDir <- _T("$(HOME)/.codeblocks/ardusim");
 
